@@ -4,8 +4,5 @@ main(){
     }
     Function3(){
         printf("This is function 3");
-    Function2(){
-        printf("This is function 2");
-    }  
 }
 #imran
